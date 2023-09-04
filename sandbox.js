@@ -6,17 +6,6 @@ let score;
 
 const questions = [
     {
-        title : 'Which of the following are components of Central Processing Unit (CPU) ?',
-        options : [
-            'Arithmetic logic unit, Mouse',
-            'Arithmetic logic unit, Control unit',
-            'Arithmetic logic unit, Integrated Circuits',
-            'Control Unit, Monitor'
-        ],
-        answer : '1',
-        score : 1
-    },
-    {
         title : 'Which among following first generation of computers had ?',
         options : [
             'Vaccum Tubes and Magnetic Drum',
@@ -36,17 +25,6 @@ const questions = [
             'All of above'
         ],
         answer : '2',
-        score : 1
-    },
-    {
-        title : 'If a computer has more than one processor then it is known as ?',
-        options : [
-            'Uniprocess',
-            'Multiprocessor',
-            'Multithreaded',
-            'Multiprogramming'
-        ],
-        answer : '1',
         score : 1
     },
     {
@@ -80,17 +58,6 @@ const questions = [
             'machine language'
         ],
         answer : '2',
-        score : 1
-    },
-    {
-        title : 'Documents, Movies, Images and Photographs etc are stored at a ?',
-        options : [
-            'Application Sever',
-            'Web Sever',
-            'Print Server',
-            'File Server'
-        ],
-        answer : '3',
         score : 1
     }
 ];
